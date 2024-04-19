@@ -1,0 +1,22 @@
+[
+  {
+    "key": "firstProduct",
+    "value": "i0",
+    "type": "id"
+  },
+  {
+    "key": "reviewsTab",
+    "value": "productReviewsTab",
+    "type": "id"
+  },
+  {
+    "key": "firstThumbsUp",
+    "value": "(//div[@class='thumbsUp hermes-ReviewCard-module-lOsa4wAwncdp3GgzpaaV'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "thanxText",
+    "value": "//span[contains(text(), 'Teşekkür Ederiz.')]",
+    "type": "xpath"
+  }
+]

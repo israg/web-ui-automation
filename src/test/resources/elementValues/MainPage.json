@@ -1,0 +1,17 @@
+[
+  {
+    "key": "search",
+    "value": "searchBoxOld-tTG7JNOHj3NJJUdZrfNp",
+    "type": "className"
+  },
+  {
+    "key": "searchArea",
+    "value": "//input[@type='text' and @placeholder='Ürün, kategori veya marka ara']",
+    "type": "xpath"
+  },
+  {
+    "key": "searchButton",
+    "value": "//div[@class='searchBoxOld-yDJzsIfi_S5gVgoapx6f']",
+    "type": "xpath"
+  }
+]
